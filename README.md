@@ -39,7 +39,7 @@ Ensure you have [Node.js](https://nodejs.org) 10 or later installed. Then run th
 npx abhisheknaidu
 ```
 
-## Built With :
+## Built With
 
 - `import-jsx` - Require and transpile JSX on the fly
 - `ink` - React for interactive command-line apps
