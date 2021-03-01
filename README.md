@@ -28,7 +28,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
-- [Libraries](#libraries)
+- [Built With](#libraries)
 - [LICENSE](#license)
 
 ## Installation
@@ -39,19 +39,19 @@ Ensure you have [Node.js](https://nodejs.org) 10 or later installed. Then run th
 npx abhisheknaidu
 ```
 
-## Libraries
+## Built With :
 
-- import-jsx
-- ink
-- ink-select-input
-- meow
-- node-banner
-- open
-- react
+- import-jsx - Require and transpile JSX on the fly
+- ink - React for interactive command-line apps
+- ink-select-input - Select input component for Ink
+- meow - CLI app helper
+- node-banner - banners for CLI tool
+- open - Open stuff like URLs, files, executables. Cross-platform.
+- react - Frontend Framework
 
 ### Inspiration
 
-[Sindre Sorhus](https://github.com/sindresorhus)
+[Sindre Sorhus](https://github.com/sindresorhus)  
 [Abhijith Vijayan](https://github.com/abhijithvijayan)
 
 ## License
