@@ -41,13 +41,13 @@ npx abhisheknaidu
 
 ## Built With :
 
-- import-jsx - Require and transpile JSX on the fly
-- ink - React for interactive command-line apps
-- ink-select-input - Select input component for Ink
-- meow - CLI app helper
-- node-banner - banners for CLI tool
-- open - Open stuff like URLs, files, executables. Cross-platform.
-- react - Frontend Framework
+- `import-jsx` - Require and transpile JSX on the fly
+- `ink` - React for interactive command-line apps
+- `ink-select-input` - Select input component for Ink
+- `meow` - CLI app helper
+- `node-banner` - banners for CLI tool
+- `open` - Open stuff like URLs, files, executables. Cross-platform.
+- `react` - Frontend Framework
 
 ### Inspiration
 
