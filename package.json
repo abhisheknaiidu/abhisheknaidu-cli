@@ -1,11 +1,11 @@
 {
-  "name": "abhisheknaidu-cli",
-  "version": "1.0.0",
+  "name": "abhisheknaidu",
+  "version": "1.0.1",
   "description": "The Abhishek Naidu CLI",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://github.com/abhijithvijayan/abhijithvijayan-cli.git",
+  "repository": "https://github.com/abhisheknaidu/abhisheknaidu-cli.git",
   "author": {
     "name": "abhishek naidu",
     "email": "abhishknads@gmail.com",
