@@ -45,13 +45,10 @@ npx abhisheknaidu
 - `open` - Open stuff like URLs, files, executables. Cross-platform.
 - `react` - Frontend Framework
 
-### Inspiration
-
-[Sindre Sorhus](https://github.com/sindresorhus)  
-[Abhijith Vijayan](https://github.com/abhijithvijayan)
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Abhishek Naidu](https://blog.abhisheknaidu.tech/) has waived all copyright and related or neighboring rights to this work.
+
+_Inspired by [Sindre Sorhus](https://github.com/sindresorhus) , [Abhijith Vijayan](https://github.com/abhijithvijayan)_
